@@ -6,7 +6,7 @@
 % This template is adapted from thesidown and similar university specific adaptations
 %
 %
-% Bristol Uni thesis regulations: http://www.bris.ac.uk/esu/pg/pgrcop11-12topic.pdf#page=49
+% Bristol Uni thesis regulations: https://www.bristol.ac.uk/academic-quality/pg/pgrcode/annex4/
 % Format of dissertations for research degrees:
 %
 % Preliminary pages:
